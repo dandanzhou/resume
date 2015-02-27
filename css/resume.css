@@ -4,6 +4,12 @@
 body{
 	background-color: #DFDFDF;
 }
+.left,.right{
+	float: left;
+}
+.right{
+	margin-left: 36%;
+}
 .main-part{
 	margin: 5% 18%;
 }
@@ -17,6 +23,9 @@ body{
 	font-weight: bolder;
 	font-size: 40px;
 	color: rgb(105, 104, 104);
+}
+.clearfix{
+	clear: both;
 }
 li,.text{
 	line-height: 2em;
@@ -39,4 +48,9 @@ li,.text{
 }
 span{
 	font-weight: bold;
+}
+.circle{
+	color: #3D5267;
+	padding-right: 16px;
+	font-size: 26px;
 }
