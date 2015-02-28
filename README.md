@@ -11,7 +11,7 @@
     
   > 毕业院校：湖北工业大学  (网络工程)
     
-  > 电话：15311466694    Email：<mailto:daisyzhou.me@gmail.com>
+  > 电话：15311466694 &nbsp;or&nbsp; Email：<mailto:daisyzhou.me@gmail.com>
 
 
 <br/>
