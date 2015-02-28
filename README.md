@@ -4,21 +4,25 @@
 <br/>
 
 ###个人概况
-<div style="margin-top:10px; margin-left:3%;">
-<div style="float:left;">
-<p>姓名：周丹丹</p>
-<p>出生年月：1993-2-10 </p>
-<p>毕业院校：湖北工业大学</p>
-<p>电话：15311466694 </p> 
-</div>
-<div style="float:left; margin-left:16%;">
-<p>性别：女 </p>
-<p>年龄：21</p>
-<p>专业：网络工程</p>
-<p>Email：[daisyzhou.me@gmail.com](mailto:daisyzhou.me@gmail.com) </p> 
-</div>
-<div style="clear:both;"></div>
-</div>
+
+<table cellspacing="10px" cellpadding="0">
+   <tr>
+      <td>姓名：周丹丹</td>
+      <td>性别：女</td>
+   </tr>
+   <tr>
+      <td  width="1000px">出生年月：1993-2-10 </td>
+      <td>年龄：21</td>
+   </tr>
+   <tr>
+      <td>毕业院校：湖北工业大学</td>
+      <td>专业：网络工程</td>
+   </tr>
+   <tr>
+      <td>电话：15311466694</td>
+      <td>Email：<daisyzhou.me@gmail.com></td>
+   </tr>
+</table>
 
 <br/>
 
@@ -47,6 +51,7 @@
    大三上学期和同学用C++做了一个聊天对话框，对话框具有聊天和文件传输（基于FTP）的功能，我负责的是客户端。
 
 <br/>
+
 ###专业技能
 * 熟练掌握JavaScript、HTML、CSS等语言、JQuery等常用框架、Ajax技术,能熟练编写结构良好跨浏览器的代码。
 
