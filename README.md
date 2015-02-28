@@ -1,6 +1,7 @@
-# **<p style="text-align:center;">个人简历</p>**
+#  **<p style="text-align:center;">个人简历</p>**
 
-<br/>
+
+
 
 ###个人概况
 ***
