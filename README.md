@@ -4,24 +4,14 @@
 
 ###个人概况
 
-<table frame=void>
-   <tr>
-      <td>姓名：周丹丹</td>
-      <td>性别：女</td>
-   </tr>
-   <tr>
-      <td  width="70%">出生年月：1993-2-10 </td>
-      <td>年龄：21</td>
-   </tr>
-   <tr>
-      <td>毕业院校：湖北工业大学</td>
-      <td>专业：网络工程</td>
-   </tr>
-   <tr>
-      <td>电话：15311466694</td>
-      <td>Email：<daisyzhou.me@gmail.com></td>
-   </tr>
-</table>
+> 姓名：周丹丹&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;性别：女
+
+>出生年月：1993-2-10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄：21
+ 
+>毕业院校：湖北工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业：网络工程
+ 
+>电话：15311466694&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email：<mailto:daisyzhou.me@gmail.com>
+  
 
 <br/>
 
@@ -52,7 +42,7 @@
 <br/>
 
 ###专业技能
-* 熟练掌握JavaScript、HTML、CSS等语言、JQuery等常用框架、Ajax技术,能熟练编写结构良好跨浏览器的代码。
+* 熟练掌握JavaScript、HTML、CSS、Markdown等语言、JQuery等常用框架、Ajax技术,能熟练编写结构良好跨浏览器的代码。
 
 * 对于HTML5、CSS3、Bootstrap、响应式网站等有一定的实际应用经验。
 
