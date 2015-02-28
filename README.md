@@ -1,17 +1,16 @@
-<p style="text-align:center;font-weight:bolder;font-size:30px;">个人简历</p>
+# **<p style="text-align:center;">个人简历</p>**
 
-<br/>
 <br/>
 
 ###个人概况
 
-<table cellspacing="10px" cellpadding="0">
+<table frame=void>
    <tr>
       <td>姓名：周丹丹</td>
       <td>性别：女</td>
    </tr>
    <tr>
-      <td  width="1000px">出生年月：1993-2-10 </td>
+      <td  width="70%">出生年月：1993-2-10 </td>
       <td>年龄：21</td>
    </tr>
    <tr>
