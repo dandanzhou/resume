@@ -1,32 +1,17 @@
 #  **<p style="text-align:center;">个人简历</p>**
 
-
-
+<br/>
 
 ###个人概况
 ***
+  > 姓名：周丹丹   (女)
+  
+    出生年月：1993-2-10  (21岁)
+    
+    毕业院校：湖北工业大学  (网络工程)
+    
+    电话：15311466694    Email：<mailto:daisyzhou.me@gmail.com>
 
-<div>
-<div style="float:left;">
-  姓名：周丹丹
-
-  出生年月：1993-2-10
-
-  毕业院校：湖北工业大学
-
-  电话：15311466694
-</div>
-<div style="float:left;">
-
-   性别：女
-
-   年龄：21
-
-   专业：网络工程
-
-   Email：<mailto:daisyzhou.me@gmail.com>
-</div>
-</div>
 
 <br/>
 
